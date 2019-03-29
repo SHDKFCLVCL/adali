@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+ <html>
+ <head>
+    <title></title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+      <link href="https://fonts.googleapis.com/css?family=ZCOOL+QingKe+HuangYou" rel="stylesheet">
+  </head>
+<body style="background-color: #pink;">
+  <nav class="navbar navbar-expand-lg navbar-black bg-black">
+    <a class="navbar-brand" href="#">CINE ARACELI</a>
+     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+      </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Inicio<span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Estrenos</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Compra de boletos</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true"></a>
+      </li>
+    </ul>
+  </div>
+</nav>  
+<div class="jumbotron jumbotron-fluid" style="background-image: url(img/moco.gif);">
+  <div class="container">
+    <h1 class="display-4" style="font-family: 'ZCOOL QingKe HuangYou', cursive; text-align: left; color: Green">Cine Araceli</h1>
+    <p class="lead" style="font-family: 'ZCOOL QingKe HuangYou', cursive; text-align: left; color: white;">El mejor cine que puedes visitar</p>
+  </div>
+</div>
+     </nav>
+     <!seccion title-->
+<div class="jumbotron jumbotron-fluid" style="background-image: url(img/moco.gif);">
+  <div class="container">
+    <h1 class="display-4" style="font-family: 'ZCOOL QingKe HuangYou', cursive; text-align: left; color: Green">Cine Araceli</h1>
+    <p class="lead" style="font-family: 'ZCOOL QingKe HuangYou', cursive; text-align: left; color: white;">El mejor cine que puedes visitar</p>
+  </div>
+</div>
+<!---seccion estrenos--->
+     <div class="jumbotron jumbotron-fluid" style="background-image: url(img/Q.gif);">
+  <div class="container">
+    <h1 class="display-4"   style="font-family: 'Satisfy', cursive; text-align: center;color: pink;"> ARACELI</h1>
+    <p class="lead">EL MEJOR CINE DE MEXICO .</p>"
+ <div class="col-sm-4">
+<div class="card" style="width: 18rem;">
+  <img src="img/a.gif" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">rapido y furioso 5</h5>
+    <p class="card-text">Dominic y su pandilla se encuentran en el lado opuesto de la ley de nuevo. Sacar a Dominic de la cárcel los ha forzado a cruzar frontera tras frontera para evitar a la policía. Llegan a Río de Janeiro donde tienen que eludir a un despiadado narco y a un agente federal testarudo si quieren seguir libres..</p>
+    <a href="#" class="btn btn-primary">Ver trailer</a>
+  </div>
+</div>
+</div>
+
+
+
+<html lang="en" xmlns="http://cine araceli.com">
+<head>
+    <meta charset="utf-8" />
+    <title>BUTACAS O ASIENTOS DE CINE</title>
+    <style type="text/css">
+        .auto-style1 {
+            width: 91%;
+        }
+        .auto-style2 {
+            text-align: center;
+            width: 1122px;
+        }
+        .auto-style3 {
+            width: 30px;
+            background-color: pink;
+            text-align: center;
+        }
+        .auto-style4 {
+            width: 35px;
+        }
+        .auto-style5 {
+            width: 36px;
+        }
+        .auto-style6 {
+            width: 30px;
+            height: 34px;
+        }
+        .auto-style7 {
+            width: 36px;
+            height: 34px;
+        }
+        .auto-style8 {
+            width: 35px;
+            height: 34px;
+        }
+        .auto-style10 {
+            width: 32px;
+        }
+        .auto-style11 {
+            width: 32px;
+            height: 34px;
+        }
+        .auto-style12 {
+            width: 34px;
+        }
+        .auto-style13 {
+            width: 34px;
+            height: 34px;
+        }
+        .nuevoEstilo1 {
+            border-top-style: solid;
+        }
+        .auto-style14 {
+            width: 35px;
+            height: 34px;
+            text-align: center;
+        }
+        .auto-style15 {
+            width: 35px;
+            text-align: center;
+        }
+        .auto-style16 {
+            text-align: center;
+        }
+        .auto-style17 {
+            width: 34px;
+            text-align: center;
+        }
+        .auto-style18 {
+            width: 32px;
+            text-align: center;
+        }
+        .auto-style19 {
+            width: 36px;
+            text-align: center;
+        }
+        .highlighted {
+            background-color:grey;
+        }
+    </style>
+    <!-- src="jquery/jquery-1.11.1.min.js" -->
+    <script type="text/javascript">
+        
+    </script>
+    
+</head>
+<body>
+    <h1 class="auto-style2">CINE ARACELI<H1>
+    <table class="auto-style1">
+        <tr id="butaca">
+            <td class="auto-style3">
+                A</td>
+            <td>
+                &nbsp;</td>
+            <td class="auto-style5">&nbsp;</td>
+            <td class="auto-style15">
+                1<img alt="" src="img/ASIENTOS.png" style="height: 29px; width: 35px" /></td>
+            <td class="auto-style15">
+                2<img alt="" src="img/ASIENTOS.png"style="height: 29px;width: 35px"/></td>
+            <td class="auto-style15">
+                3<img alt="" src="img/ASIENTOS.png"style="height: 29px;width:35px"/></td>
+            <td class="auto-style15">
+                 4<img alt="" src="img/ASIENTOS.png"style="height: 29px;width: 35px "/></td>
+              <td class="auto-style15">
+                  5<img alt=""src="img/ASIENTOS.png"style="height: 29px;width: 35px"/></td>
+            <td class="auto-style15">
+                6<img alt="" src="img/ASIENTOS.png"style="height: 29px;width: 35px"/></td>
+            <td class="auto-style15">
+                7<img alt="" src="img/ASIENTOS.png"style="height: 29px;width: 35px"/></td>
+            <td class="auto-style15">
+                8<img alt="" src="img/ASIENTOS.png"style="height: 29px;width: 35px"/></td>
+            <td class="auto-style15">
+                9<img alt="" src="img/ASIENTOS.png"style="height: 29px;width: 35px"/></td>
+            <td class="auto-style15">
+                10<img alt="" src="img/ASIENTOS.png"style="height: 29px;width: 35px"/></td> 
+            <td class="auto-style15">
+                11<img alt="" src="img/ASIENTOS.png"style="height: 29px;width: 35px"/></td> 
+                 <td class="auto-style15">
+            <td class="auto-style15">
+                12<img alt="" src="img/ASIENTOS.png" style="height: 29px; width: 35px" /></td>
+            <td class="auto-style15">
+                13<img alt="" src="img/ASIENTOS.png" style="height: 29px; width: 35px" /></td>
+            <td class="auto-style15">
+                14<img alt="" src="img/ASIENTOS.png" style="height: 29px; width: 35px" /></td>
+            <td class="auto-style15">
+                15<img alt="" src="img/ASIENTOS.png" style="height: 29px; width: 35px" /></td>
+            <td class="auto-style15">
+                16<img alt="" src="img/ASIENTOS.png" style="height: 29px; width: 35px" /></td>
+            <td class="auto-style15">
+                17<img alt="" src="img/ASIENTOS.png" style="height: 29px; width: 35px" /></td>
+            <td class="auto-style15">
+                18<img alt="" src="img/ASIENTOS.png" style="height: 29px; width: 35px" /></td>
+            <td class="auto-style15">
+                19<img alt="" src="img/ASIENTOS.png" style="height: 29px; width: 35px" /></td>
+            <td class="auto-style15">
+                20<img alt="" src="img/ASIENTOS.png" style="height: 29px; width: 35px" /></td>
+            <td class="auto-style15">
+                21<img alt="" src="img/ASIENTOS.png" style="height: 29px; width: 35px" /></td>
+            <td class="auto-style15">
+                22<img alt="" src="img/ASIENTOS.png" style="height: 29px; width: 35px" /></td>
+            <td class="auto-style10">&nbsp;</td>
+            <td class="auto-style12">&nbsp;</td>
+            <td class="auto-style3">A</td>
+        </tr>
+        <tr>
+            <td class="auto-style3">B</td>
+            <td class="auto-style6"></td>
+            <td class="auto-style7"></td>
+            <td class="auto-style14">
+                1<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style14">
+                2<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style14">
+                3<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style14">
+                4<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style14">
+                5<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style14">
+                6<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style14">
+                7<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style14">
+                8<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style14">
+                9<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style14">
+                10<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style14">
+                11<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style8"></td>
+            <td class="auto-style14">
+                12<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style14">
+                13<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style14">
+                14<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style14">
+                15<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style14">
+                16<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style14">
+                17<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style14">
+                18<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style14">
+                19<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style14">
+                20<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style14">
+                21<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style14">
+                22<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style11"></td>
+            <td class="auto-style13"></td>
+            <td class="auto-style3">B</td>
+        </tr>
+        <tr>
+            <td class="auto-style3">C</td>
+            <td class="auto-style6"></td>
+            <td class="auto-style7"></td>
+            <td class="auto-style14">
+                1<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style14">
+                2<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style14">
+                3<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style14">
+                4<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style14">
+                5<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style14">
+                6<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style14">
+                7<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style14">
+                8<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style14">
+                9<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style14">
+                10<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style14">
+                11<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style8"></td>
+            <td class="auto-style14">
+                12<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style14">
+                13<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style14">
+                14<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style14">
+                15<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style14">
+                16<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style14">
+                17<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style14">
+                18<img alt="" src= "img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+               <td class="auto-style14">
+                19<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style14">
+                20<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style14">
+                21<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style14">
+                22<img alt="" src="img/ASIENTOS.png" style="height: 25px; width: 34px" /></td>
+            <td class="auto-style11"></td>
+            <td class="auto-style13"></td>
+            <td class="auto-style3">C</td>
+        </tr>
+</table>
+</body>
+</html>
